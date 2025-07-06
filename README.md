@@ -68,11 +68,16 @@ http://localhost:8502/
  ┣ 📄.env (you create this)
  ┣ 📄requirements2.txt
 
+
 ## 🧠 Prompt Used
 
 ### You are an expert nutritionist. Look at the food items in the image and calculate the total calories. Also, provide details of each item with calorie counts in the following format:
 #### 1. Item 1 - number of calories
 #### 2. Item 2 - number of calories
 ...
+
+![Screenshot 2025-07-06 110424](https://github.com/user-attachments/assets/ed3727f9-e39c-48e6-8f4b-611967531c1f)
+![Screenshot 2025-07-06 110437](https://github.com/user-attachments/assets/dd3c498a-2405-4c54-ad75-61c4acbba12e)
+
 
 👨‍💻 Developed by Prajwal 
