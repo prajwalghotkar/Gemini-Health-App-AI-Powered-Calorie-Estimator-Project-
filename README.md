@@ -80,6 +80,6 @@ http://localhost:8502/
 ![Screenshot 2025-07-06 110437](https://github.com/user-attachments/assets/dd3c498a-2405-4c54-ad75-61c4acbba12e)
 
 
-👨‍💻 Developed by Prajwal 
+👨‍💻 Prajwal 
 
 https://www.instagram.com/prajwal.ghotkar_
