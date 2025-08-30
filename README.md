@@ -119,17 +119,21 @@ http://localhost:8502/
  <img width="1920" height="779" alt="Screenshot 2025-08-31 032944" src="https://github.com/user-attachments/assets/ed96eb3d-273c-44bf-a746-583b6767e1ff" />
 
 - 2) Set Up Virtual Environment and Install Dependencies:
-  
+  ```
   pip install -r requirements.txt
+  ```
 
 - 3) Configure API Key:
   - Create a .env file in the project's root directory.
   - Add your API key to the file:
-  GOOGLE_API_KEY="YOUR_API_KEY
-
+```
+GOOGLE_API_KEY="YOUR_API_KEY
+```
 - 4) Run the Application:
-  streamlit run app.py
 
+```
+streamlit run app.py
+```
 
 
 
