@@ -77,7 +77,7 @@ http://localhost:8502/
 ...
 
 ![Screenshot 2025-07-06 110424](https://github.com/user-attachments/assets/ed3727f9-e39c-48e6-8f4b-611967531c1f)
-![Screenshot 2025-07-06 110437](https://github.com/user-attachments/assets/dd3c498a-2405-4c54-ad75-61c4ac
+<img width="1920" height="772" alt="Screenshot 2025-08-31 040655" src="https://github.com/user-attachments/assets/cd8c5636-2c82-4ddf-bacd-a910bdfd6807" />
 
 ---
 
