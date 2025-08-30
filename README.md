@@ -77,7 +77,11 @@ http://localhost:8502/
 ...
 
 ![Screenshot 2025-07-06 110424](https://github.com/user-attachments/assets/ed3727f9-e39c-48e6-8f4b-611967531c1f)
-![Screenshot 2025-07-06 110437](https://github.com/user-attachments/assets/dd3c498a-2405-4c54-ad75-61c4acbba12e)
+![Screenshot 2025-07-06 110437](https://github.com/user-attachments/assets/dd3c498a-2405-4c54-ad75-61c4ac
+
+---
+
+https://github.com/user-attachments/assets/204b94b8-22dc-4f7b-85cb-598dbcd2d6dfbba12e)
 
 ---
 
@@ -135,6 +139,8 @@ GOOGLE_API_KEY="YOUR_API_KEY
 streamlit run app.py
 ```
 
+https://github.com/user-attachments/assets/4a5f14a3-d80a-44b6-aa58-f08d1009f79f
 
-
+---
+Prajwal
 
